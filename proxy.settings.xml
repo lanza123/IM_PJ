@@ -1,6 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_HTTP_PROXY" value="true" />
     <option name="PROXY_HOST" value="deer.3.14159.in" />
     <option name="PROXY_PORT" value="10354" />
     <option name="PROXY_AUTHENTICATION" value="true" />
